@@ -1,0 +1,131 @@
+/* Body
+--------------------------------------------------------*/
+body{
+	font: 62.5%/1.5 "Orbitron", "Futura LT", "Agency FB", SansSerif;
+}
+
+#wrapper{
+	background-color: #ccc;
+	margin: 0 auto;
+	width: 100%;
+	min-width: 900px;
+}
+
+
+/* Header
+--------------------------------------------------------  */
+header{
+	background-color: #322c28;
+	height: 50px;
+}
+
+header h1{
+	font-size: 2em;
+	float: left;
+	margin: 10px 0 0 10px;
+}
+
+
+/* Nav
+--------------------------------------------------------*/
+#nav{
+	font: 75%/2 "Orbitron", "Futura LT", "Agency FB", SansSerif;
+	list-style-type: none;
+	float: none;
+/*	font-variant: small-caps;*/
+	font-weight: bold;
+}
+
+#nav li{
+	list-style-type: none;
+	float: right;
+	font-size: 2em;
+/*	margin: -2px 2px 0px 2px;*/
+/*	padding: 2px;*/
+
+}
+
+#nav li a{
+/*	margin: 10px 0 0 0;*/
+	display: block;
+	color: #fff;
+	background-color: #322c28;
+	text-decoration: none;
+	padding: 10px;
+	/*	padding-right: 7px;
+	padding-left: 7px;*/
+}
+
+#nav li a:hover{
+	background-color: #C45A12;
+}
+
+#nav #active a {
+	background-color: #265568;
+	color: white;
+}
+
+/* Content
+--------------------------------------------------------*/
+.clearfix{
+	position: relative;
+	left: 9%;
+}
+
+.content{
+	padding: 10px;
+}
+
+.gallery {
+	list-style-type: none;
+	margin-left: 17%;
+	margin-top: 100px;
+}
+
+.gallery li{
+	display: inline-block;
+	margin: 50px 50px 5px 0px;
+
+
+}
+
+/* Footer
+--------------------------------------------------------*/
+footer{
+	background-color: #322c28;
+	clear: both;
+}
+
+footer p{
+	display: inline-block;
+	color: white;
+	font-size: 1.4em;
+	text-align: left;
+	clear: both;
+	margin-left: 20px;
+}
+
+.gallery li{
+	display: inline-block;
+	float: right;
+	margin: 12px 10px 0px 5px;
+}
+
+/* Text and Links
+--------------------------------------------------------*/
+p{
+	color: #444;
+	font-size: 1.5em;
+}
+
+h2{
+	font-size: 1.6em;
+	margin: 0 0 10px 0;
+	display: block;
+}
+
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; visibility: hidden; }
+.clearfix:after { clear: both; }
+.clearfix {
+	zoom: 1;
+}

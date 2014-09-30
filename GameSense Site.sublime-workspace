@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aboutus.html",
+			"settings":
+			{
+				"buffer_size": 8940,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2819,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 2225,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Steph/Downloads/source/example102/index.html",
+			"settings":
+			{
+				"buffer_size": 2075,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/aboutus.css",
+			"settings":
+			{
+				"buffer_size": 2247,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "recordings.html",
+			"settings":
+			{
+				"buffer_size": 1719,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/recordings.css",
+			"settings":
+			{
+				"buffer_size": 2084,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "watchlive.html",
+			"settings":
+			{
+				"buffer_size": 1719,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/watchlive.css",
+			"settings":
+			{
+				"buffer_size": 2027,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Steph/Desktop/hello.js",
+		"/C/Users/Steph/Desktop/site/pages/aboutus.html",
+		"/C/Users/Steph/Desktop/site/css/main.css",
+		"/C/Users/Steph/Desktop/site/index.html",
+		"/C/Users/Steph/Desktop/site/css/recordings.css",
+		"/C/Users/Steph/Desktop/site/pages/watchlive.html",
+		"/C/Users/Steph/Desktop/site/css/aboutus.css",
+		"/C/Users/Steph/Desktop/site/css/watchlive.css",
+		"/C/Users/Steph/Google Drive/Stream Stuff/ArcheAge Alpha",
+		"/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
+		"/C/Users/Steph/Desktop/ElasticIn.xml",
+		"/C/Users/Steph/Desktop/TEST.xaml",
+		"/C/Users/Steph/Downloads/mh3g_db_2013-04-10/mh3g.sql",
+		"/C/Users/Steph/Desktop/site/index.xml",
+		"/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
+		"/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Software/streamcontrol_base.xml",
+		"/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/Title Logo.xml",
+		"/C/Users/Steph/Downloads/Default.page.template",
+		"/C/Users/Steph/Downloads/BigScreen.page.template",
+		"/C/Users/Steph/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Steph/Desktop/CC Scene Files/streamcontrol.xml",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/streamcontrol.xml",
+		"/C/Users/Steph/Desktop/CC Scene Files/Title - Alliance Stats.xml",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/swfpics/xml tags.txt",
+		"/C/Users/Steph/Desktop/GameSense Desktop/Chezy Champs/Animated Graphics/streamcontrol.xml",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/Up Next Teams.xml",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/Up Next Banner Small.xml",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/Caster Overlay (Ty's ruining everything).xml",
+		"/C/Users/Steph/Desktop/GameSense Desktop/Chezy Champs/Animated Graphics/Up Next Teams (Steph fucks it up).xml",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/streamcontrol (for stephs version RENAME ME).xml",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/streamcontrol (2).xml",
+		"/C/Users/Steph/Desktop/streamcontrol.xml",
+		"/C/Users/Steph/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Steph/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Steph/Google Drive/GameSense/Chezy Champs/Animated Graphics/RotatingLogo.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../",
+			"pages",
+			"../",
+			"gallery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aboutus.html",
+					"settings":
+					{
+						"buffer_size": 8940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2756,
+								2756
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1533,
+								1533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 2225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 312.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Steph/Downloads/source/example102/index.html",
+					"settings":
+					{
+						"buffer_size": 2075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/aboutus.css",
+					"settings":
+					{
+						"buffer_size": 2247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 27.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "recordings.html",
+					"settings":
+					{
+						"buffer_size": 1719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/recordings.css",
+					"settings":
+					{
+						"buffer_size": 2084,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "watchlive.html",
+					"settings":
+					{
+						"buffer_size": 1719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/watchlive.css",
+					"settings":
+					{
+						"buffer_size": 2027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1045,
+								1045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true
+}

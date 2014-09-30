@@ -1,0 +1,154 @@
+/* Body
+--------------------------------------------------------*/
+body{
+	font: 62.5%/1.5 "Orbitron", "Futura LT", "Agency FB", SansSerif;
+}
+
+#wrapper{
+	background-color: #ccc;
+	margin: 0 auto;
+	width: 100%;
+	min-width: 900px;
+}
+
+
+/* Header
+--------------------------------------------------------  */
+header{
+	background-color: #322c28;
+	height: 50px;
+}
+
+header h1{
+	font-size: 3em;
+	float: left;
+	margin: 10px 0 0 0px;
+}
+
+
+/* Nav
+--------------------------------------------------------*/
+#nav{
+	font: 75%/2 "Orbitron", "Futura LT", "Agency FB", SansSerif;
+	list-style-type: none;
+	float: none;
+/*	font-variant: small-caps;*/
+	font-weight: bold;
+}
+
+#nav li{
+	list-style-type: none;
+	float: right;
+	font-size: 2em;
+}
+
+#nav li a{
+	display: block;
+	color: #fff;
+	background-color: #322c28;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#nav li a:hover{
+	background-color: #C45A12;
+}
+
+#nav #active a {
+	background-color: #265568;
+	color: white;
+}
+
+/* Content
+--------------------------------------------------------*/
+.clearfix{
+	left: 2%;
+
+}
+
+.clearfix ul{
+	list-style-type: none;
+}
+
+.clearfix ul li h1{
+	font-size: 2.5em;
+}
+
+.clearfix ul li p{
+		font-family: "Futura LT", SansSerif;
+		margin-left: 20px;
+		margin-right: 20px;
+}
+
+.crew{
+	display: block;
+}
+
+.crew h2{
+	font-size: 2em;
+	clear: both;
+}
+
+.crew h3{
+	font-size: 1.4em;
+	padding-left: 0px;
+}
+
+.crew p{
+	position: relative;
+	display: block;
+	padding-right: 50px;
+
+}
+
+.crew img{
+	float: left;
+	display: inline-block;
+	text-align: left;
+	margin: 7px 20px 70px 20px;
+	clear: both;
+	border: solid;
+	border-style: double;
+}
+
+
+/* Footer
+--------------------------------------------------------*/
+footer{
+	background-color: #322c28;
+	clear: both;
+}
+
+footer p{
+	display: inline-block;
+	color: white;
+	font-size: 1.4em;
+	text-align: left;
+	clear: both;
+	margin-left: 20px;
+}
+
+.gallery li{
+	display: inline-block;
+	float: right;
+	margin: 12px 10px 0px 0px;
+}
+
+/* Text and Links
+--------------------------------------------------------*/
+p{
+	color: #444;
+	font-size: 1.5em;
+}
+
+h2{
+	font-size: 1.6em;
+	margin: 0 0 0px 20px;
+	display: block;
+}
+
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; visibility: hidden; }
+.clearfix:after { clear: both; }
+.clearfix {
+	zoom: 1;
+}

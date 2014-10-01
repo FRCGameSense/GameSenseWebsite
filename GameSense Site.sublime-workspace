@@ -228,8 +228,8 @@
 						"selection":
 						[
 							[
-								2756,
-								2756
+								613,
+								613
 							]
 						],
 						"settings":
@@ -238,7 +238,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 225.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -255,8 +255,8 @@
 						"selection":
 						[
 							[
-								1533,
-								1533
+								1025,
+								1025
 							]
 						],
 						"settings":
@@ -469,7 +469,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{

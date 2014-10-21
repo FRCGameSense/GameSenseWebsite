@@ -28,41 +28,80 @@ header h1{
 
 /* Nav
 --------------------------------------------------------*/
-#nav{
-	font: 75%/2 "Orbitron", "Futura LT", "Agency FB", SansSerif;
-	list-style-type: none;
-	float: none;
-/*	font-variant: small-caps;*/
-	font-weight: bold;
-}
-
-#nav li{
+nav {
 	list-style-type: none;
 	float: right;
-	font-size: 2em;
-/*	margin: -2px 2px 0px 2px;*/
-/*	padding: 2px;*/
-
-}
-
-#nav li a{
-/*	margin: 10px 0 0 0;*/
-	display: block;
-	color: #fff;
-	background-color: #322c28;
+/*	font-variant: small-caps;*/
+	font-weight: bold;
 	text-decoration: none;
-	padding: 10px;
-	/*	padding-right: 7px;
-	padding-left: 7px;*/
+	margin-top: -14.5px;
+	font-size: 1.2em;
 }
 
-#nav li a:hover{
-	background-color: #C45A12;
+nav ul {
+	text-align:center;
 }
 
-#nav #active a {
+/* Main Menu Button */
+nav ul li {
+	float:left;
+	display:inline;
+	height: 40px;
+	width: 110px;
+}
+
+/* Main Menu Hover */
+nav ul li:hover {
+	background:#C45A12;
+}
+
+/* Sub Menu Text */
+nav ul li a {
+	display:block;
+    padding-top: 10px;
+	color:#FFF;
+	text-decoration:none;
+}
+
+/* Sub Menu Background */
+nav ul li ul {
+	position:absolute;
+	width: 90px;
+	background:#322c28;
+    transform: translateX(-20px) translateY(8.5px);
+}
+
+nav ul li ul li {
+	margin-left: -40px;
+	font-size: .8em;
+	width:90px;
+}
+
+nav ul li ul li a {
+	display:inline-block;
+	padding:15px 10px;
+	color:#FFF;
+	text-align: left;
+    width: 120px;
+}
+
+nav ul li ul li:hover a { /* Sub Menu Hover Color */
+	background:#C45A12;
+	width: 111px;
+	height: 10px;
+}
+
+nav ul li ul.fallback {
+	display:none;
+}
+
+nav ul li:hover ul.fallback {
+	display:block;
+}
+
+#active{
 	background-color: #265568;
-	color: white;
+	color:white;
 }
 
 /* Content

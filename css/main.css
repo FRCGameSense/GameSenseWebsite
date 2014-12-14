@@ -2,9 +2,11 @@
 --------------------------------------------------------*/
 body{
 	font: 75%/1.5 "Orbitron", "Futura LT", "Agency FB", SansSerif;
+	background-color: #C45A12;
 }
 
 #wrapper{
+	background-image: url("../images/NewGSBackground.png");
 	background-color: #ccc;
 	margin: 0 auto;
 	width: 100%;
@@ -12,17 +14,18 @@ body{
 }
 
 
+
+
 /* Header
 --------------------------------------------------------  */
 header{
 	background-color: #322c28;
-	height: 40px;
+	height: 60px;
 }
 
 header h1{
-	font-size: 2em;
 	float: left;
-	margin: 5px 0 0 5px;
+	margin:10px 0 0 -10px;
 }
 
 
@@ -34,20 +37,21 @@ nav {
 /*	font-variant: small-caps;*/
 	font-weight: bold;
 	text-decoration: none;
-	margin-top: -14.5px;
-	font-size: 1.2em;
+/*	margin-top: -7px;*/
+	font-size: 1.4em;
 }
 
 nav ul {
 	text-align:center;
+	margin-top: auto;
 }
 
 /* Main Menu Button */
 nav ul li {
 	float:left;
 	display:inline;
-	height: 40px;
-	width: 110px;
+	height: 60px;
+	width: 130px;
 }
 
 /* Main Menu Hover */
@@ -58,9 +62,9 @@ nav ul li:hover {
 /* Sub Menu Text */
 nav ul li a {
 	display:block;
-    padding-top: 10px;
 	color:#FFF;
 	text-decoration:none;
+	margin-top: 18px;
 }
 
 /* Sub Menu Background */
@@ -68,7 +72,7 @@ nav ul li ul {
 	position:absolute;
 	width: 90px;
 	background:#322c28;
-    transform: translateX(-20px) translateY(8.5px);
+    transform: translateX(-20px) translateY(8px);
 }
 
 nav ul li ul li {

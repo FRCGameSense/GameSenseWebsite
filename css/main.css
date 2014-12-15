@@ -70,30 +70,29 @@ nav ul li a {
 /* Sub Menu Background */
 nav ul li ul {
 	position:absolute;
-	width: 90px;
+	width: 109px;
 	background:#322c28;
-    transform: translateX(-20px) translateY(8px);
+    transform: translateX(-20px) translateY(15px);
 }
 
 nav ul li ul li {
 	margin-left: -40px;
 	font-size: .8em;
-	width:90px;
+	width:150px;
 }
 
 nav ul li ul li a {
 	display:inline-block;
-	padding:15px 10px;
+	padding:0px 10px;
     padding-bottom: 20px;
 	color:#FFF;
 	text-align: left;
-    width: 120px;
+    width: 130px;
 }
 
-nav ul li ul li:hover a { /* Sub Menu Hover Color */
+/* Sub Menu Hover Color */
+nav ul li ul li:hover a {
 	background:#C45A12;
-	width: 111px;
-	height: 10px;
 }
 
 nav ul li ul.fallback {
@@ -115,14 +114,27 @@ nav ul li:hover ul.fallback {
 --------------------------------------------------------*/
 .clearfix{
 	display: inline-block;
-	margin-left: 8%;
+	text-align: center;
 }
 
 .content{
 	padding-top: 100px;
+	padding-bottom: 100px;
+	display: inline-block;
 }
 
+.content img{
+	border: solid;
+	border-color: #C45A12;
+}
 
+.sponsors{
+	display: inline-block;
+	float: left;
+}
+.sponsors img {
+
+}
 
 /* Footer
 --------------------------------------------------------*/

@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200);
-
+@import url(http://fonts.googleapis.com/css?family=Orbitron);
 /*
 	Halcyonic by HTML5 UP
 	html5up.net | @n33co
@@ -20,14 +20,20 @@
 	body, input, textarea, select
 	{
 		color: #474f51;
-		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+	/*	font-family: 'Yanone Kaffeesatz';
+	*/
+		font-family: 'Orbitron', sans-serif;
+		font-size: 12pt;
 		line-height: 1.85em;
 		font-weight: 300;
 	}
 
 	ul, ol, p, dl
 	{
+		font-family: 'Yanone Kaffeesatz';
+		font-size: 13.5pt;
+		line-height: 1.85em;
+		font-weight: 300;
 		margin: 0 0 2em 0;
 	}
 
@@ -38,6 +44,12 @@
 
 	#logo img{
 		transform: translateX(-60px) translateY(15px);
+	}
+
+	#biopic{
+		float: left;
+		border: solid #C45A12;
+		margin: 15px 20px 0 0;
 	}
 
 	a:hover

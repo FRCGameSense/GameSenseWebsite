@@ -15,6 +15,13 @@
 		min-width: 1000px;
 	}
 
+	#player {
+		margin-left: 10px;
+	}
+
+	#ytplayer{
+		margin-left: 10px;
+	}
 /* Multi-use */
 
 	.check-list
@@ -120,3 +127,4 @@
 		{
 			margin: 0 0 1.25em 0;
 		}
+

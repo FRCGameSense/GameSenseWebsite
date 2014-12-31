@@ -14,9 +14,11 @@ body, input, textarea, select
 	line-height: 1.4em;
 }
 
-#logo img{
-	height: 50px;
+#ytplayer{
+	margin-left: 0px;
 }
+
+
 /* Multi-use */
 
 	.link-list
@@ -58,11 +60,17 @@ body, input, textarea, select
 	
 /* Wrappers */
 
+
 	#header-wrapper
 	{
 		background: #3B4346 url('images/bg01.jpg') top center;
+		height: 70px;
 		box-shadow: inset 0px -1px 0px 0px #272d30, inset 0px -2px 0px 0px #51575a;
 		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
+	}
+
+	.subpage #header-wrapper{
+		height: 70px;
 	}
 
 	/*
@@ -253,9 +261,10 @@ body, input, textarea, select
 
 	#titleBar {
 		color: #fff;
-		background: url('images/bg04.jpg');
-		box-shadow: inset 0px -20px 70px 0px rgba(200,220,245,0.1), inset 0px -1px 0px 0px rgba(255,255,255,0.1), 0px 1px 7px 0px rgba(0,0,0,0.6);
-		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
+/*		background: url('images/bg04.jpg');*/
+		height: 70px;
+/*		box-shadow: inset 0px -20px 70px 0px rgba(200,220,245,0.1), inset 0px -1px 0px 0px rgba(255,255,255,0.1), 0px 1px 7px 0px rgba(0,0,0,0.6);
+		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);*/
 	}
 
 		#titleBar .title {
@@ -309,6 +318,7 @@ body, input, textarea, select
 		background: url('images/bg04.jpg');
 		box-shadow: inset -1px 0px 0px 0px rgba(255,255,255,0.25), inset -2px 0px 25px 0px rgba(0,0,0,0.5);
 		text-shadow: -1px -1px 1px rgba(0,0,0,1);
+
 	}
 
 		#navPanel .link {

@@ -30,13 +30,16 @@
 
 	ul, ol, p, dl
 	{
-		font-family: 'Yanone Kaffeesatz';
+		font-family: 'Yanone Kaffeesatz', sans-serif;
 		font-size: 13.5pt;
 		line-height: 1.85em;
 		font-weight: 300;
 		margin: 0 0 2em 0;
 	}
 
+	section header h3{
+		font-family: 'Yanone Kaffeesatz', sans-serif;
+	}
 	a
 	{
 		text-decoration: underline;
@@ -52,7 +55,59 @@
 		margin: 15px 20px 0 0;
 	}
 
-	a:hover
+	.feature-image{
+		border: double #212f35;
+	}
+
+
+/* Recordings Page Collapsible Areas */
+	summary{
+		transform: translateY(-25px);
+	}
+	summary::-webkit-details-marker {
+		color: #C45A12;
+		font-size: 125%;
+		margin-right: 2px;
+		margin-left: 40px;
+	}
+	#content section header{
+		margin-top: 25px;
+	}
+	summary:focus {
+		outline-style: none;
+	}
+	article > details > summary {
+		font-size: 22px;
+		margin-top: 16px;
+	}
+
+	details > p {
+		margin-left: 24px;
+
+	}
+	details details {
+		margin-left: 36px;
+		column-count: 3;
+	}
+	details details summary {
+		font-size: 18px;
+
+	}
+	details details p{
+		margin-left: 75px;
+		margin-top: -30px;
+	}
+
+	li{
+		column-count: 3;
+	}
+/* Youtube Player for Recordings Page */
+	#ytplayer{
+		margin-bottom: 20px;
+		margin-left: 95px;
+	}
+
+a:hover
 	{
 		text-decoration: none;
 	}

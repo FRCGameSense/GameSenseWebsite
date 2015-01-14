@@ -36,74 +36,34 @@
 	"buffers":
 	[
 		{
-			"file": "aboutus.html",
+			"file": "/D/Code/FRCHelper-Javascript/npm-debug.log",
 			"settings":
 			{
-				"buffer_size": 8940,
+				"buffer_size": 1314,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "/C/Users/Steph/Google Drive/GameSense/Shows/GameSense/Graphics/Current/Season 2 Concepts/streamcontrol.xml",
 			"settings":
 			{
-				"buffer_size": 2819,
+				"buffer_size": 571,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "css/main.css",
+			"file": "/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
 			"settings":
 			{
-				"buffer_size": 2225,
+				"buffer_size": 245,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Steph/Downloads/source/example102/index.html",
+			"file": "/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
 			"settings":
 			{
-				"buffer_size": 2075,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/aboutus.css",
-			"settings":
-			{
-				"buffer_size": 2247,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "recordings.html",
-			"settings":
-			{
-				"buffer_size": 1719,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/recordings.css",
-			"settings":
-			{
-				"buffer_size": 2084,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "watchlive.html",
-			"settings":
-			{
-				"buffer_size": 1719,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/watchlive.css",
-			"settings":
-			{
-				"buffer_size": 2027,
+				"buffer_size": 560,
 				"line_ending": "Windows"
 			}
 		}
@@ -140,7 +100,21 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Steph/Desktop/TEST.xaml",
+		"/D/Code/GameSenseWebsite/css/watchlive.css",
+		"/D/Code/GameSenseWebsite/watchlive.html",
+		"/D/Code/GameSenseWebsite/css/recordings.css",
+		"/D/Code/GameSenseWebsite/recordings.html",
+		"/D/Code/GameSenseWebsite/css/aboutus.css",
+		"/C/Users/Steph/Downloads/source/example102/index.html",
+		"/D/Code/GameSenseWebsite/css/main.css",
 		"/C/Users/Steph/Desktop/hello.js",
+		"/D/Code/jsonengine/jsonengine/war/WEB-INF/appengine-web.xml",
+		"/D/Code/GameSenseWebsite/index.html",
+		"/D/Code/GameSenseWebsite/aboutus.html",
+		"/C/Users/Steph/.ssh/known_hosts",
+		"/C/Users/Steph/.ssh/github_rsa",
+		"/C/Users/Steph/.ssh/id_rsa",
 		"/C/Users/Steph/Desktop/site/pages/aboutus.html",
 		"/C/Users/Steph/Desktop/site/css/main.css",
 		"/C/Users/Steph/Desktop/site/index.html",
@@ -151,7 +125,6 @@
 		"/C/Users/Steph/Google Drive/Stream Stuff/ArcheAge Alpha",
 		"/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
 		"/C/Users/Steph/Desktop/ElasticIn.xml",
-		"/C/Users/Steph/Desktop/TEST.xaml",
 		"/C/Users/Steph/Downloads/mh3g_db_2013-04-10/mh3g.sql",
 		"/C/Users/Steph/Desktop/site/index.xml",
 		"/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
@@ -218,91 +191,10 @@
 			[
 				{
 					"buffer": 0,
-					"file": "aboutus.html",
+					"file": "/D/Code/FRCHelper-Javascript/npm-debug.log",
 					"settings":
 					{
-						"buffer_size": 8940,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								613,
-								613
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 2819,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1025,
-								1025
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/main.css",
-					"settings":
-					{
-						"buffer_size": 2225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								699,
-								699
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 312.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/Steph/Downloads/source/example102/index.html",
-					"settings":
-					{
-						"buffer_size": 2075,
+						"buffer_size": 1314,
 						"regions":
 						{
 						},
@@ -315,9 +207,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -326,52 +216,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "css/aboutus.css",
+					"buffer": 1,
+					"file": "/C/Users/Steph/Google Drive/GameSense/Shows/GameSense/Graphics/Current/Season 2 Concepts/streamcontrol.xml",
 					"settings":
 					{
-						"buffer_size": 2247,
+						"buffer_size": 571,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								420,
-								420
+								226,
+								226
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 27.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "recordings.html",
-					"settings":
-					{
-						"buffer_size": 1719,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15,
-								15
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -380,52 +242,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "css/recordings.css",
+					"buffer": 2,
+					"file": "/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
 					"settings":
 					{
-						"buffer_size": 2084,
+						"buffer_size": 245,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								685,
-								685
+								245,
+								245
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 135.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "watchlive.html",
-					"settings":
-					{
-						"buffer_size": 1719,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								509,
-								509
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -434,28 +268,27 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "css/watchlive.css",
+					"buffer": 3,
+					"file": "/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
 					"settings":
 					{
-						"buffer_size": 2027,
+						"buffer_size": 560,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1045,
-								1045
+								560,
+								560
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 180.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

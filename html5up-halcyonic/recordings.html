@@ -8,8 +8,8 @@
 <head>
 	<title>Recordings - GameSense</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
+	<meta name="description" content="GameSense is a group of FRC alumni and mentors who are dedicated to creating high quality media productions for the FRC community. Let's Talk Robots!"/>
+	<meta name="keywords" content="frc, robotics, robot, robots, FIRST, competition, Game, Sense, GameSense" />
 	<script src="js/jquery.min.js"></script>
 	<script src="js/skel.min.js"></script>
 	<script src="js/skel-layers.min.js"></script>
@@ -48,6 +48,10 @@
 		function ytplayer_loadvideo(id) {
 				player.loadVideoById(id);
 		}
+
+		function ytplayer_loadplaylist(id, index){
+			player.loadPlaylist({'list': id, 'index': index});
+		}
 	</script>
 
 </head>
@@ -64,9 +68,9 @@
 				<!-- Nav -->
 				<nav id="nav">
 					<a href="index.html">Homepage</a>
-					<a href="threecolumn.html">Watch Live</a>
+					<a href="watchlive.html">Watch Live</a>
 					<a href="recordings.html">Recordings</a>
-					<a href="twocolumn2.html">Calendar</a>
+					<a href="calendar.html">Calendar</a>
 					<a href="AboutUs.html">About Us</a>
 				</nav>
 
@@ -126,21 +130,21 @@
 									</li>
 									<li>
 										<details>
-											<summary>Episode 7 - District Championships Preview</summary>
+											<summary>Episode 7 - District Championships Preview (Click to Expand)</summary>
 											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('O86LX2HuM-Q');">Part 1 (Michigan and NE DCMP)</a></p>
 											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('puXSDFdi054');">Part 2 (PNW and MAR DCMP)</a></p>
 										</details>
 									</li>
 									<li>
 										<details>
-											<summary>Episode 8 - 2014 Championships Preview</summary>
+											<summary>Episode 8 - 2014 Championships Preview (Click to Expand)</summary>
 											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('llQttalpnqM');">Part 1 (Archimedes and Curie)</a></p>
 											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('9LWmfuw9RUQ');">Part 2 (Newton and Galileo)</a></p>
 										</details>
 									</li>
 									<li>
 										<details>
-											<summary>Episode 9 - 2014 Championships Recap</summary>
+											<summary>Episode 9 - 2014 Championships Recap (Click to Expand)</summary>
 											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('pFLiajjcYi0');">Part 1 (CMP Recap with Frank)</a></p>
 											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('eQdiGHYcrdQ');">Part 2 (CMP Recap with EJ from FRC Team 254)</a></p>
 											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('XhJdIp5sU5Q');">Part 3 (AMA Recording)</a></p>
@@ -154,11 +158,11 @@
 								</ul>
 							</details>
 							<details>
-								<summary>Season 2 - 2015 TBA</summary>
+								<summary>Season 2 - 2015 Recycle Rush</summary>
 								<ul>
 									<li>
 										<details>
-											<summary>Episode 0 - Holiday Special</summary>
+											<summary>Episode 0 - Holiday Special with Frank Merrick</summary>
 										</details>
 									</li>
 								</ul>
@@ -176,32 +180,32 @@
 								<ul>
 									<li>
 										<details>
-											<summary>Episode 1 - Things Every Team Should Know</summary>
+											<summary><a href="#ytplayer" onclick="ytplayer_loadvideo('B5QilnfA_i4');">Episode 1 - Things Every Team Should Know</a></summary>
 										</details>
 									</li>
 									<li>
 										<details>
-											<summary>Episode 2 - 2015 FRC Control System</summary>
+											<summary><a href="#ytplayer" onclick="ytplayer_loadvideo('NwV_eNpXfO0');">Episode 2 - 2015 FRC Control System</a></summary>
 										</details>
 									</li>
 									<li>
 										<details>
-											<summary>Episode 3 - Motors & Power Transmission</summary>
+											<summary><a href="#ytplayer" onclick="ytplayer_loadvideo('WPX3z-qLSk0');">Episode 3 - Motors & Power Transmission</a></summary>
 										</details>
 									</li>
 									<li>
 										<details>
-											<summary>Episode 4 - Effective Team Communication</summary>
+											<summary><a href="#ytplayer" onclick="ytplayer_loadvideo('2Ziz5V_weyU');">Episode 4 - Effective Team Communication</a></summary>
 										</details>
 									</li>
 									<li>
 										<details>
-											<summary>Episode 5 - 2015 Control System Beta Teams</summary>
+											<summary><a href="#ytplayer" onclick="ytplayer_loadvideo('uUYlS2Vkyuo');">Episode 5 - 2015 Control System Beta Teams</a></summary>
 										</details>
 									</li>
 									<li>
 										<details>
-											<summary>Episode 6 - Kit of Parts</summary>
+											<summary><a href="#ytplayer" onclick="ytplayer_loadvideo('E33Gxjdi0PY');">Episode 6 - Kit of Parts</a></summary>
 										</details>
 									</li>
 								</ul>
@@ -231,7 +235,7 @@
 									<li>
 										<details id="qualmatches">
 											<summary>Qualification Matches</summary>
-											<p><a href="#ytplayer" onclick="ytplayer_loadvideo('m4C1oL5XY1A');">Playlist of Qualification Matches</a></p>
+											<p><a href="#ytplayer" onclick="ytplayer_loadplaylist('PLIY-TB1MAu-V1_3k9GujwYzkixkmI7rtH', 7);">Playlist of Qualification Matches</a></p>
 										</details>
 									</li>
 									<li>
@@ -268,7 +272,17 @@
 					<!-- Sidebar -->
 					<section>
 						<header>
-							<h2>Subscribe</h2>
+							<h2>How to Watch Recordings</h2>
+						</header>
+						<p>
+							Select a season for the recorded show you wish to watch. Then select one of the items
+							indicated by an orange arrow to either view the recordings available, or load the
+							corresponding video into the player at the top of the page.
+						</p>
+					</section>
+					<section>
+						<header>
+							<h2>Please Subscribe!</h2>
 						</header>
 						<p>For notifications when we go live, or upload a video, or for social media announcements,
 						please subscribe or like us on our various channels below!</p>
@@ -279,21 +293,7 @@
 							<li><a href="#">Follow us on Twitter!</a></li>
 						</ul>
 					</section>
-					<section>
-						<header>
-							<h2>Ipsum Dolor</h2>
-						</header>
-						<p>
-							Vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam
-							iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat.
-						</p>
-						<ul class="link-list">
-							<li><a href="#">Sed dolore viverra</a></li>
-							<li><a href="#">Ligula non varius</a></li>
-							<li><a href="#">Dis parturient montes</a></li>
-							<li><a href="#">Nascetur ridiculus</a></li>
-						</ul>
-					</section>
+
 
 				</div>
 			</div>
@@ -314,14 +314,14 @@
 						<div class="row">
 							<div class="3u">
 								<ul class="link-list last-child">
-									<li><a href="#">Watch Live</a></li>
-									<li><a href="#">Mailing List Signup</a></li>
+									<li><a href="watchlive.html">Watch Live</a></li>
+									<li><a href="#"></a></li>
 								</ul>
 							</div>
 							<div class="3u">
 								<ul class="link-list last-child">
 									<li><a href="recordings.html">GameSense Recordings</a></li>
-									<li><a href="#">Calendar</a></li>
+									<li><a href="calendar.html">Calendar</a></li>
 								</ul>
 							</div>
 							<div class="3u">

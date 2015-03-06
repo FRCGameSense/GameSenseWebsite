@@ -36,26 +36,10 @@
 	"buffers":
 	[
 		{
-			"file": "/D/Code/FRCHelper-Javascript/npm-debug.log",
-			"settings":
-			{
-				"buffer_size": 1314,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/C/Users/Steph/Google Drive/GameSense/Shows/GameSense/Graphics/Current/Season 2 Concepts/streamcontrol.xml",
 			"settings":
 			{
-				"buffer_size": 571,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
-			"settings":
-			{
-				"buffer_size": 245,
+				"buffer_size": 723,
 				"line_ending": "Windows"
 			}
 		},
@@ -63,7 +47,7 @@
 			"file": "/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
 			"settings":
 			{
-				"buffer_size": 560,
+				"buffer_size": 662,
 				"line_ending": "Windows"
 			}
 		}
@@ -100,6 +84,8 @@
 	},
 	"file_history":
 	[
+		"/D/Code/FRCHelper-Javascript/npm-debug.log",
+		"/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
 		"/C/Users/Steph/Desktop/TEST.xaml",
 		"/D/Code/GameSenseWebsite/css/watchlive.css",
 		"/D/Code/GameSenseWebsite/watchlive.html",
@@ -123,7 +109,6 @@
 		"/C/Users/Steph/Desktop/site/css/aboutus.css",
 		"/C/Users/Steph/Desktop/site/css/watchlive.css",
 		"/C/Users/Steph/Google Drive/Stream Stuff/ArcheAge Alpha",
-		"/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
 		"/C/Users/Steph/Desktop/ElasticIn.xml",
 		"/C/Users/Steph/Downloads/mh3g_db_2013-04-10/mh3g.sql",
 		"/C/Users/Steph/Desktop/site/index.xml",
@@ -191,10 +176,10 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/D/Code/FRCHelper-Javascript/npm-debug.log",
+					"file": "/C/Users/Steph/Google Drive/GameSense/Shows/GameSense/Graphics/Current/Season 2 Concepts/streamcontrol.xml",
 					"settings":
 					{
-						"buffer_size": 1314,
+						"buffer_size": 723,
 						"regions":
 						{
 						},
@@ -207,7 +192,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -217,70 +202,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Steph/Google Drive/GameSense/Shows/GameSense/Graphics/Current/Season 2 Concepts/streamcontrol.xml",
-					"settings":
-					{
-						"buffer_size": 571,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								226,
-								226
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Steph/Google Drive/GameSense/Shows/Behind The Lines/Graphics/Current/Animations/streamcontrol.xml",
-					"settings":
-					{
-						"buffer_size": 245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								245,
-								245
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
 					"settings":
 					{
-						"buffer_size": 560,
+						"buffer_size": 662,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								560,
-								560
+								662,
+								662
 							]
 						],
 						"settings":

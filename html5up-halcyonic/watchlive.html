@@ -56,20 +56,86 @@
             <div class="row">
                 <div class="9u">
                     <!-- Main Content -->
-                    <!-- Player -->
+                <section>
+                    <header>
+                    <h2>Watch GameSense Live!</h2>
+                    <h3>Select either the Twitch or Youtube options, below, to watch GameSense live!</h3>
+                    </header>
+                    <article>
+                        <details>
+                            <summary>Watch Live on Twitch</summary>
+                            <ul>
+                                <li>
+                                            <object type="application/x-shockwave-flash" height="550" width="100%" id="live_embed_player_flash"
+                                            data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=frcgamesense" bgcolor="#000000">
+                                            <param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" />
+                                            <param name="allowNetworking" value="all" /><param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf" />
+                                            <param name="flashvars" value="hostname=www.twitch.tv&channel=frcgamesense&auto_play=true&start_volume=25" />
+                                            </object>
+                                </li>
+                            </ul>
+                        </details>
+                        <details>
+                            <summary>Watch Live on Youtube</summary>
+                            <ul>
+                                <li>
+                                        <summary><iframe width="853" height="480" src="https://www.youtube.com/embed/4S7P_Bei_hw?list=PLIY-TB1MAu-Upv8PyvgF52K9CqQe_83TJ" frameborder="0" allowfullscreen></iframe>
+                                        </summary>
+                                </li>
+                            </ul>
+                        </details>
+                    </article>
+                        <header>
+                            <h2>GSBot Commands</h2>
+                        </header>
+                        <p>GameSenseBot is a new project we're working on to bring you a better chat experience! GSBot can understand certain commands in order to submit questions during shows and even fetch information from The Blue Alliance! See below for a list of commands that GameSenseBot can understand:</p>
+                        <h3>Format</h3>
+                        <ul>
+                            <li>!command Input1* Input2* (description)</li>
+                            <li>*if necessary</li>
+                        </ul>
+
+                        <h3>GameSense Commands</h3>
+                        <ul>
+                            <li>!question yourQuestion (submits a question)</li>
+                            <li>!q yourQuestion (submits a question)</li>
+
+                        </ul>
+
+                        <h3>The Blue Alliance Commands</h3>
+                        <ul>
+                            <li>!tba teamNumber (Links that team's TBA page)</li>
+                            <li>!name teamNumber (Gets that team's name)</li>
+                            <li>!record teamNumber (Gets that teams season record)</li>
+                            <li>!record teamNumber eventCode (Gets that teams record at that event)</li>
+                            <li>!events teamNumber (Gets a list of events that team is registered for)</li>
+                            <li>!help (Prints a help message)</li>
+                        </ul>
+                        <h3>Adding Commands</h3>
+                        <p>If you would like us to implement a command, send us an email at gamesense@frcgamesense.com!</p>
+
+
+                </section>
+<!--
+                    &lt;!&ndash; Player &ndash;&gt;
 
                         <object type="application/x-shockwave-flash" height="550" width="100%" id="live_embed_player_flash"
                                 data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=frcgamesense" bgcolor="#000000">
                             <param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" />
                             <param name="allowNetworking" value="all" /><param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf" />
                             <param name="flashvars" value="hostname=www.twitch.tv&channel=frcgamesense&auto_play=true&start_volume=25" /></object>
-
-
+                    <iframe width="853" height="480" src="https://www.youtube.com/embed/4S7P_Bei_hw?list=PLIY-TB1MAu-Upv8PyvgF52K9CqQe_83TJ" frameborder="0" allowfullscreen></iframe>
+-->
 
                 </div>
                 <div class="3u">
 
                     <!-- Sidebar -->
+                    <section>
+                        <header>
+                            <h2>Chat GameSense!</h2>
+                        </header>
+                    </section>
                     <iframe frameborder="0"
                             scrolling="no"
                             id="chat_embed"

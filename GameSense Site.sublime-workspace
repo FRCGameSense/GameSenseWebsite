@@ -47,7 +47,7 @@
 			"file": "/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
 			"settings":
 			{
-				"buffer_size": 662,
+				"buffer_size": 468,
 				"line_ending": "Windows"
 			}
 		}
@@ -205,15 +205,15 @@
 					"file": "/C/Program Files (x86)/SplitmediaLabs/XSplit/streamcontrol.xml",
 					"settings":
 					{
-						"buffer_size": 662,
+						"buffer_size": 468,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								662,
-								662
+								468,
+								468
 							]
 						],
 						"settings":
